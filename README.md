@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋, я Елизавета</h1>
-- 📫 Как со мной связаться **elisa.dostovalova@gmail.com**
+- 📫  **elisa.dostovalova@gmail.com**
 
-<h3 align="left">Свяжитесь со мной:</ h3>
+
 <p align="left">
 </p>
 
