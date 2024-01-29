@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, я Елизавета</h1>
-- 📫  **elisa.dostovalova@gmail.com**
+- 📫  elisa.dostovalova@gmail.com
 
 
 <p align="left">
